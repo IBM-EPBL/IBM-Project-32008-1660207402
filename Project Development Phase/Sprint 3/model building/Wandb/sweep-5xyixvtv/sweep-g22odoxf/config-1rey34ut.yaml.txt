@@ -1,6 +1,0 @@
-wandb_version: 1
-
-criterion:
-  value: absolute_error
-max_samples:
-  value: 0.4
