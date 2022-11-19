@@ -1,0 +1,6 @@
+wandb_version: 1
+
+max_samples:
+  value: 0.4
+n_estimators:
+  value: 200
