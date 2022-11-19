@@ -1,0 +1,10 @@
+wandb_version: 1
+
+learning_rate:
+  value: 0.07
+loss:
+  value: squared_error
+max_iter:
+  value: 300
+random_state:
+  value: 42
