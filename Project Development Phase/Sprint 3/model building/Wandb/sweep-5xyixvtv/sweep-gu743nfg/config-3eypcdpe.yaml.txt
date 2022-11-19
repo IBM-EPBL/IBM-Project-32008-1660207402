@@ -1,0 +1,10 @@
+wandb_version: 1
+
+booster:
+  value: gblinear
+eta:
+  value: 0.07
+learning_rate:
+  value: 0.01
+n_estimators:
+  value: 200
