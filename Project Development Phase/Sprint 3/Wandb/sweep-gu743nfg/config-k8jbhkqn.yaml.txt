@@ -1,0 +1,10 @@
+wandb_version: 1
+
+booster:
+  value: gbtree
+eta:
+  value: 0.03
+learning_rate:
+  value: 0.01
+n_estimators:
+  value: 300
